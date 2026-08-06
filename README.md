@@ -1,4 +1,4 @@
-![](https://github.com/wakenone1/wakenone1/blob/main/akCnQx.gif) 
+![](https://github.com/wakenone1/wakenone1/blob/main/936dfd54081f4eaa48b947f5c18a778e.gif) 
 
 
 
