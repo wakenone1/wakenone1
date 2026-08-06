@@ -1,3 +1,5 @@
+![](https://github.com/wakenone1/wakenone1/blob/main/akCnQx.gif)
+
 <h1 align="center">Heyyy 👋, I'm Hasan Hazbi</h1>
 <h3 align="center">A passionate student learning programming for future AI/Ml/Data Science path from Bangladesh.</h3>
 
