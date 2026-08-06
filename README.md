@@ -1,7 +1,6 @@
 <p align="center">
-  <video src="https://github.com/wakenone1/wakenone1/blob/main/Kajra-Nur-AudioTrimmercom.mp4" width="80%" controls></video>
+  <img src="https://github.com/wakenone1/wakenone1/blob/main/cars.gif" alt="Image Description">
 </p>
-
 
 <h1 align="center">Heyyy 👋, I'm Hasan Hazbi</h1>
 <h3 align="center">A passionate student learning programming for future AI/Ml/Data Science path from Bangladesh.</h3>
