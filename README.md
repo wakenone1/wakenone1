@@ -2,14 +2,14 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wakenone1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h1 align="center">Heyyy 👋, I'm Hasan Hazbi</h1>
 <h3 align="center">A passionate student learning programming for future AI/Ml/Data Science path from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wakenone1&label=Profile%20views&color=0e75b6&style=flat" alt="wakenone1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wakenone1" alt="wakenone1" /></a> </p>
+
 
 - 🔭 I’m currently working on [Silica Chatbot](https://github.com/wakenone1/Silica-Chatbot)
 
