@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://github.com/wakenone1/wakenone1/blob/main/cars.gif" alt="Cars">
+  <video src="https://github.com/wakenone1/wakenone1/blob/main/Kajra-Nur-AudioTrimmercom.mp4" width="80%" controls></video>
 </p>
- 
-
-
-
 
 
 <h1 align="center">Heyyy 👋, I'm Hasan Hazbi</h1>
