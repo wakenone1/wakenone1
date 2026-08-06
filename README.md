@@ -1,4 +1,7 @@
-![](https://github.com/wakenone1/wakenone1/blob/main/cars.gif) 
+<p align="center">
+  <img src="https://github.com/wakenone1/wakenone1/blob/main/cars.gif" alt="Cars">
+</p>
+ 
 
 
 
