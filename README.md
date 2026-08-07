@@ -11,6 +11,8 @@
 
 - 🔭 I’m currently working on [Silica Chatbot](https://github.com/wakenone1/Silica-Chatbot)
 
+- 🤝 I need help building this awesome project [Deleted For Now, Coming Soon!]
+
 - 🌱 I’m currently learning **Nympy, Pandas, Matplotlib, Pytorch**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wakenone1](https://github.com/wakenone1)
