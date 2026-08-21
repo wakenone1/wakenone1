@@ -9,19 +9,19 @@
 
 
 
-- 🔭 I’m currently working on [Silica Chatbot](https://github.com/wakenone1/Silica-Chatbot)
+- 🔭 I’m currently working on : [Silica Chatbot](https://github.com/wakenone1/Silica-Chatbot)
 
-- 🤝 I need help to build this awesome project [Deleted For Now, Coming Soon!]
+- 🤝 I need help to build this awesome project : [Deleted For Now, Coming Soon!]
 
-- 🌱 I’m currently learning **Object Oriented Programming**
+- 🌱 I’m currently learning : **Object Oriented Programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wakenone1](https://github.com/wakenone1)
+- 👨‍💻 All of my projects are available at : [https://github.com/wakenone1](https://github.com/wakenone1)
 
-- 📝 I regularly write articles on [https://linked.in/in/hasan-hazbi](https://linked.in/in/hasan-hazbi)
+- 📝 I regularly write articles on : [https://linked.in/in/hasan-hazbi](https://linked.in/in/hasan-hazbi)
 
-- 📫 How to reach me **showkathazbi99@gmail.com**
+- 📫 How to reach me : **showkathazbi99@gmail.com**
 
-- ⚡ Fun fact **I can be very persevere or sometimes not at all. 🙃 (Based on Interest)**
+- ⚡ Fun fact : **I can be very persevere or sometimes not at all. 🙃 (Based on Interest)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
