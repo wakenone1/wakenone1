@@ -13,7 +13,7 @@
 
 - 🤝 I need help to build this awesome project : [Deleted For Now, Coming Soon!]
 
-- 🌱 I’m currently learning : **Object Oriented Programming**
+- 🌱 I’m currently learning : **Pandas**
 
 - 👨‍💻 All of my projects are available at : [https://github.com/wakenone1](https://github.com/wakenone1)
 
